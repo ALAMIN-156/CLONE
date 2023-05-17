@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("FREE").__main__()
+    __import__("FREE").rsby()
 except Exception as e:
     exit(str(e))
