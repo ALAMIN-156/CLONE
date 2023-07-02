@@ -40,13 +40,13 @@
 
 - `pip install bs4`
 
-- `rm -rf FILE`
+- `rm -rf CLONE`
 
-- `git clone https://github.com/MrALAMIN156/FILE.git`
+- `git clone https://github.com/MrALAMIN156/CLONE.git`
 
  
 
-- `cd FILE`
+- `cd CLONE`
 
 
 - `python ALAMIN.py`
