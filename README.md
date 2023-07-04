@@ -42,7 +42,7 @@
 
 - `rm -rf CLONE`
 
-- `git clone https://github.com/MrALAMIN156/CLONE.git`
+- `git clone https://github.com/ALAMIN-156/CLONE.git`
 
  
 
